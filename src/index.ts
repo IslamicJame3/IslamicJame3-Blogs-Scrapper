@@ -28,7 +28,7 @@ import createHTML from "./utils/converters/html";
         { title: "EPUB", value: "epub" },
         { title: "PDF", value: "pdf" },
         { title: "HTML", value: "html" },
-        { title: "DOCX", value: "docx" },
+        // { title: "DOCX", value: "docx" },
       ],
     },
   ]);
